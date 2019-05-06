@@ -8,7 +8,7 @@ Implemented commands:
 * 'e' - take a top byte from the stack and print it on the screen
 * 'h' - halt the program
 
-Demo program `hello.vm` that prints out a text `Hello world!`
+Demo program `hello.vm` prints out a text `Hello world!`
 
 Build
 =====
