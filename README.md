@@ -1,1 +1,24 @@
 # vm
+
+A very simple virtual machine for educational purposes that is able to print a text on the screen.
+The VM is implemented from this tutorial video - https://www.youtube.com/watch?v=DUNkdl0Jhgs
+
+Implemented commands:
+* 'c'<x> - put a byte <x> to the stack.
+* 'e' - take a top byte from the stack and print it on the screen
+* 'h' - halt the program
+
+Demo program `hello.vm` that prints out a text `Hello world!`
+
+Build
+=====
+```
+    make
+```    
+
+Run
+===
+```
+    ./vm hello.vm
+    Hello world!
+```
