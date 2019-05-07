@@ -3,7 +3,7 @@
 A very simple bytecode virtual machine for educational purposes. It is able to print a text on the screen.
 The VM is implemented from this tutorial video - https://www.youtube.com/watch?v=DUNkdl0Jhgs
 
-Implemented commands:
+Implemented VM commands:
 * 'c'<x> - put a byte <x> to the stack.
 * 'e' - take a top byte from the stack and print it on the screen
 * 'h' - halt the program
