@@ -4,7 +4,7 @@ A very simple bytecode virtual machine for educational purposes. It is able to p
 The VM is implemented from this tutorial video - https://www.youtube.com/watch?v=DUNkdl0Jhgs
 
 Implemented VM commands:
-* 'c'&lt;x&gt; - put a byte &lt;x&gt; to the stack.
+* 'c'&lt;x&gt; - put a byte &lt;x&gt; to the stack
 * 'e' - take a top byte from the stack and print it on the screen
 * 'h' - halt the program
 
