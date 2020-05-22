@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <stdint.h>
 #include <sys/stat.h>
+#include <ncurses.h>
 
 typedef struct OBJECT_t {
   uint8_t    type;

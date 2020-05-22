@@ -1,2 +1,2 @@
-default: vm.c
-	gcc -o vm vm.c
+all: boxvm.c
+	gcc -o boxvm boxvm.c
