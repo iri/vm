@@ -1,7 +1,7 @@
 # vm
 
 A very simple bytecode virtual machine for educational purposes. It is able to print a text on the screen.
-The VM is implemented from this tutorial video - https://www.youtube.com/watch?v=DUNkdl0Jhgs
+The VM is implemented from this tutorial video - https://www.youtube.com/watch?v=DUNkdl0Jhgs by @jephthai
 
 Implemented VM commands:
 * 'c'&lt;x&gt; - put a byte &lt;x&gt; to the stack
