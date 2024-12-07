@@ -1,2 +1,2 @@
-all: boxvm.c
-	gcc -o boxvm boxvm.c
+all: vm.c
+	gcc -o vm vm.c
