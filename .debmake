@@ -1,0 +1,40 @@
+# Target is the path where the package files will be installed (without leading `/`)
+TARGET="usr/share/vm"
+
+# The source of the software
+HOMEPAGE="https://github.com/iri/vm.git"
+
+# Short description (max. 80 characters)
+DESCRIPTION_SHORT="A very simple virtual machine example"
+
+# Long description will be broken to multiple lines (at 80 characters)
+DESCRIPTION_LONG="A very simple virtual machine example"
+
+
+# *** OPTIONAL ***
+
+# Section (default: `misc`)
+SECTION="misc"
+
+# Version (default: `1.0`)
+VERSION="1.0"
+
+# Dependencies (add comma separated lists of packages to these variables)
+DEPENDS=""
+RECOMMENDS=""
+SUGGESTS=""
+CONFLICTS=""
+BREAKS=""
+PROVIDES=""
+REPLACES=""
+
+# Copyright and License info (default: `GPL-3+`)
+COPYRIGHT=""
+LICENSE=""
+LICENSE_TEXT=""
+
+# Doc files to be put under `/usr/share/doc`, include all files like readme, license, copyright, etc.
+# If left empty it defaults to:
+DOC="README.md"
+
+
