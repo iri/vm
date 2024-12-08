@@ -10,6 +10,12 @@ Implemented VM commands:
 
 Demo program `hello.vm` prints out a text `Hello world!`
 
+hello.vm:
+```hello.vm:
+c
+c!c!c!cdclcrcocwc coclclcecHeeeeeeeeeeeeeeeh
+```
+
 Build
 =====
 ```
@@ -21,4 +27,10 @@ Run
 ```
     ./vm hello.vm
     Hello world!
+```
+
+Build deb package
+=====
+```
+    sh build-deb.sh
 ```
